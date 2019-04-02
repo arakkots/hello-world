@@ -1,2 +1,4 @@
 abc
 def
+Newly added line1
+newly added line2
